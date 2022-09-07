@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lakshya2199
-- 👀 I’m interested in java
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on java projects
-- 📫 How to reach me ...
+- 👀 I’m interested in data analytics
+- 🌱 I’m currently learning  data analytics
+- 💞️ I’m looking to collaborate on data analytics projects
+- 📫 How to reach me ...lakshyavarshney1199@gmail.com
 
 <!---
 lakshya2199/lakshya2199 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
